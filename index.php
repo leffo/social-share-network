@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta property="og:type"               content="websiite" />
-
     <meta property="og:title"              content="Hi, from og-title" />
-    <meta property="og:image"              content="http://localhost:63342/vueshare/img/80141-01.jpg" />
+    <meta property="og:image"              content="https://leffo.online/80141-01.jpg?msg=123456" />
     <meta property="og:description"        content="Hi, og-meta-description" />
     <title>From title</title>
 
@@ -15,9 +14,9 @@
 <p>Share:</p>
 <div class="ya-share2"
      data-services="vkontakte,facebook,odnoklassniki,telegram,twitter,viber,whatsapp,moimir"
-     data-image="http://localhost:63342/vueshare/img/80141-01.jpg"
+     data-description="From attribute description"
 ></div>
-<img src="img/80141-01.jpg" alt="hij">
+<img src="https://leffo.online/80141-01.jpg" alt="hij">
 
 <script src="https://yastatic.net/share2/share.js"></script>
 </body>
